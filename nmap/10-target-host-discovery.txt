@@ -1,0 +1,5 @@
+# Nmap 7.99 scan initiated Sat Aug 22 18:37:37 2026 as: /usr/lib/nmap/nmap -sn -e eth1 -oN /home/kali/CyberLab/Task3/nmap/10-target-host-discovery.txt 192.168.19.129
+Nmap scan report for 192.168.19.129
+Host is up (0.00038s latency).
+MAC Address: 00:0C:29:FA:DD:34 (VMware)
+# Nmap done at Sat Aug 22 18:37:42 2026 -- 1 IP address (1 host up) scanned in 4.09 seconds

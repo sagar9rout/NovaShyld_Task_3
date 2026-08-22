@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Sat Aug 22 18:26:21 2026 as: /usr/lib/nmap/nmap -sS -e eth1 -p 1 -oN /home/kali/CyberLab/Task3/nmap/09-closed-port-check.txt 192.168.19.1
+Nmap scan report for 192.168.19.1
+Host is up (0.00022s latency).
+
+PORT  STATE    SERVICE
+1/tcp filtered tcpmux
+MAC Address: 00:50:56:C0:00:01 (VMware)
+
+# Nmap done at Sat Aug 22 18:26:26 2026 -- 1 IP address (1 host up) scanned in 4.37 seconds

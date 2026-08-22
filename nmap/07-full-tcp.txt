@@ -1,0 +1,12 @@
+# Nmap 7.99 scan initiated Sat Aug 22 18:19:29 2026 as: /usr/lib/nmap/nmap -p- -sS -e eth1 -oN /home/kali/CyberLab/Task3/nmap/07-full-tcp.txt 192.168.19.1
+Nmap scan report for 192.168.19.1
+Host is up (0.00032s latency).
+Not shown: 65531 filtered tcp ports (no-response)
+PORT      STATE SERVICE
+3306/tcp  open  mysql
+7680/tcp  open  pando-pub
+33060/tcp open  mysqlx
+53497/tcp open  unknown
+MAC Address: 00:50:56:C0:00:01 (VMware)
+
+# Nmap done at Sat Aug 22 18:21:18 2026 -- 1 IP address (1 host up) scanned in 108.91 seconds
